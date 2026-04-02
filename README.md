@@ -20,7 +20,8 @@ A clean and professional GST Invoice Generator built using PHP.
 
 ## 📸 Preview
 
-![Preview](https://via.placeholder.com/800x400.png?text=GST+Invoice+Generator)
+![Preview]<img width="2697" height="1556" alt="image" src="https://github.com/user-attachments/assets/3bba490e-6386-41b3-a16c-e1de90156e17" />
+
 
 ## ⚠️ Disclaimer
 
