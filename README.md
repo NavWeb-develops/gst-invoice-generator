@@ -1,4 +1,3 @@
-# gst-invoice-generator
 # GST Invoice Generator 🇮🇳
 
 A clean and professional GST Invoice Generator built using PHP.
